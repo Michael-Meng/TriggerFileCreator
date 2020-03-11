@@ -1,0 +1,15 @@
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.csproj.GenerateResource.cache
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.csproj.CoreCompileInputs.cache
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.csprojAssemblyReference.cache
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\bin\Debug\TriggerFileCreator.exe.config
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\bin\Debug\TriggerFileCreator.exe
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\bin\Debug\TriggerFileCreator.pdb
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator_MarkupCompile.cache
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator_MarkupCompile.lref
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.g.resources
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.Properties.Resources.resources
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.exe
+C:\Users\z000ckqg\source\repos\WpfApp1\WpfApp1\obj\Debug\TriggerFileCreator.pdb
